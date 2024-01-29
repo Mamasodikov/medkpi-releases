@@ -1,2 +1,2 @@
 # medkpi-releases
-Private repo for releases of MedKPI (kiosk-app)
+Repo for releases of MedKPI (kiosk-app)
