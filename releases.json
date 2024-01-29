@@ -1,7 +1,7 @@
 [
     {
         "version": "0.0.2",
-        "url": "https://storage.cloud.google.com/fcc-apps/MedKPI%200.0.2%20(TEST).apk",
+        "url": "https://storage.googleapis.com/fcc-apps/MedKPI%200.0.2%20(TEST).apk",
         "releaseNotes": "Addded new features!",
         "releaseDate": "2024-01-28T11:58:25Z",
         "mandatory": true,
